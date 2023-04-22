@@ -30,13 +30,13 @@ start using the package.
 Widget getShape() {
   ChatShapePainter(
     context: context,
-    width: MediaQuery.of(context).size.width - 30,
+    width: MediaQuery.of(context).size.width - 40,
     height: 200,
     color: Colors.indigo,
     applyTopRadius: true,
     enableHandle: true,
     handleHeight: 80,
-    handleWidth: 100000,
+    handleWidth: 100,
     radius: 30,
     enableHandleCap: false,
     handle: HandleType.curved,
