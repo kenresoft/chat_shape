@@ -28,7 +28,7 @@ class ChatShapePainter extends CustomPainter {
   ///   applyTopRadius: true,
   ///   enableHandle: true,
   ///   handleHeight: 80,
-  ///   handleWidth: 165,
+  ///   handleWidth: 155,
   ///   radius: 30,
   ///   enableHandleCap: false,
   ///   handle: HandleType.curved,
@@ -96,7 +96,7 @@ class ChatShapePainter extends CustomPainter {
   /// The `width` of the handle of this shape.
   /// This is constrained inorder to disallow overflow in dimensions.
   ///
-  /// * [max] = 200
+  /// * [max] = half of the shape `width`
   /// * [min] = 0
   final double handleWidth;
 
