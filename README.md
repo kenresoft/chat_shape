@@ -71,5 +71,5 @@ Widget getShape() {
 
 ## Additional information
 
-The code snippet for the screenshots above can be found in the ![Different example on how the package can be used.](/example "Example directory")
+The code snippet for the screenshots above can be found in the [Example directory](/example "Different example on how the package can be used.")
 The package is not limited to this 5 examples alone. It's flexible and can be used to generate more custom shapes.
