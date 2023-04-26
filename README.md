@@ -29,6 +29,8 @@ The basic parameters of this widget which can be used powerfully to customize th
 
 ### Screenshots
 
+Here are some of the shapes that can be realized among many others by combination and variation of the various parameters:
+
 <img src="screenshots/shape_1.jpg" width="250" title="Shape 1" alt="Straight handle with cap"/>
 <img src="screenshots/shape_2.jpg" width="250" title="Shape 2" alt="Straight handle with no cap"/>
 <img src="screenshots/shape_3.jpg" width="250" title="Shape 3" alt="Curve handle with cap"/>
@@ -72,4 +74,7 @@ Widget getShape() {
 ## Additional information
 
 The code snippet for the screenshots above can be found in the [Example directory](/example "Different example on how the package can be used.")
-The package is not limited to this 5 examples alone. It's flexible and can be used to generate more custom shapes.
+
+The package is not limited to this 5 examples alone. 
+
+It's flexible and can be used to generate more custom shapes.
