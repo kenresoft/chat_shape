@@ -156,7 +156,7 @@ class ChatShapePainter extends CustomPainter {
       handleWidth = 0;
     }
 
-    /// The paint `color` and `style`..................................................
+    /// The paint `color` and `style`........................................................................................................
     final paint = Paint()
       ..color = color
       ..style = PaintingStyle.fill;
