@@ -55,7 +55,7 @@ dependencies:
 
  ```dart
 Widget getShape() {
-  ChatShapePainter(
+  ChatShape(
     context: context,
     width: MediaQuery.of(context).size.width - 40,
     height: 200,

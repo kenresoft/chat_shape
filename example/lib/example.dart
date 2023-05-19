@@ -18,7 +18,7 @@ class ChatExamples extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                 child: CustomPaint(
-                  painter: ChatShapePainter(
+                  painter: ChatShape(
                     context: context,
                     width: 260,
                     height: 50,
@@ -34,7 +34,7 @@ class ChatExamples extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                 child: CustomPaint(
-                  painter: ChatShapePainter(
+                  painter: ChatShape(
                     context: context,
                     width: 260,
                     height: 50,
@@ -50,7 +50,7 @@ class ChatExamples extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                 child: CustomPaint(
-                  painter: ChatShapePainter(
+                  painter: ChatShape(
                     context: context,
                     width: 260,
                     height: 50,
@@ -68,7 +68,7 @@ class ChatExamples extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                 child: CustomPaint(
-                  painter: ChatShapePainter(
+                  painter: ChatShape(
                     context: context,
                     width: 260,
                     height: 50,
@@ -84,7 +84,7 @@ class ChatExamples extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                 child: CustomPaint(
-                  painter: ChatShapePainter(
+                  painter: ChatShape(
                     context: context,
                     width: 260,
                     height: 50,
