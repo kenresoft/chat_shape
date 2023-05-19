@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-class ChatShapePainter extends CustomPainter {
+class ChatShape extends CustomPainter {
   /// A [CustomPainter] which creates a `chat-bubble-like` shape with border radius applied.
   ///
   /// The [height], [handleWidth], [handleHeight], and [radius]
@@ -18,7 +18,7 @@ class ChatShapePainter extends CustomPainter {
   /// {@tool snippet}
   ///
   /// ```dart
-  /// ChatShapePainter(
+  /// ChatShape(
   ///   context: context,
   ///   width: MediaQuery.of(context).size.width - 30,
   ///   height: 200,
@@ -34,7 +34,7 @@ class ChatShapePainter extends CustomPainter {
   /// ```
   ///
   /// {@end-tool}
-  const ChatShapePainter({
+  const ChatShape({
     required this.context,
     required this.width,
     required this.height,
