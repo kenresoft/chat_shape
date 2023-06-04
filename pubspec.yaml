@@ -1,10 +1,10 @@
 name: chat_shape
 description: A simple but very flexible and accomodating chat shape in flutter. This can be of help as it can save the time needed to draw different chat-like shapes. Different shapes have been accounted for programmatically in this simple package.
 version: 0.0.1
-homepage:
+homepage: ''
 
 environment:
-  sdk: '>=2.19.0 <3.0.0'
+  sdk: '>=3.0.1 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^2.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
